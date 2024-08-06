@@ -1,2 +1,7 @@
 # K-Modes-K-Prototype
 Clustering Students for Higher Education Performance Evaluation Using K-Modes and K-Prototypes Algorithms
+
+# Summary 
+In this era of globalization, human resources have become a crucial component in supporting global competition. Higher education institutions, as educational organizations, are required to contribute to the improvement of human resource quality through the implementation of high-quality education. Performance evaluation is one of the efforts made by higher education institutions to enhance their educational quality. Several aspects influence this performance evaluation, one of which is the students themselves. The characteristics, abilities, and achievements of students serve as benchmarks for assessing the quality of an institution.
+
+In this study, clustering analysis was performed using the K-Modes and K-Prototypes algorithms to categorize students into three groups: outstanding, average, and below average. The cost obtained using the K-Modes algorithm was 35,616.0, and the cost for K-Prototypes was 21,799.8. The results show that the institution has a relatively balanced distribution of students across the three categories. This indicates that the institution is providing a sufficiently high-quality education. However, there is still a need for improvement in institutional quality through ongoing evaluation and enhancement of student activities
